@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.env
+venv/
+env/
+*.sqlite3
+
+# ---- Logs ----
+*.log
+*.out
+*.err
+
+# ---- Node.js / Frontend ----
+node_modules/
+dist/
+build/
+*.lock
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
